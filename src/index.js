@@ -14,6 +14,8 @@ class Index extends React.Component{
             <div>
                 <Header/>
                 <Content/>
+                <Header/>
+                <Content/>
             </div>
         )
     }
